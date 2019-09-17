@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#logo1
+{
+	margin-top:-5%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#logo{margin-top:0%;}
+#tab
+{
+	margin-top:0%;
+	width:63%;
+	background:#03C;
+	color:#fff;
+border:5px double;
+border-radius:6px;
+}
+#table li{
+	display: inline;
+	margin-right:0.35%;
+	margin-left: 0%;
+	font: Algerian;
+	font-size: 18px;
+	font: bold;
+	margin-top: 2%;
+	color:#FFF;
+}
+
+tab
+{
+	margin-top:-1%;
+	width:60%;
+	height:40px;
+    background:#04F;
+	color:#fff;
+	border-radius:6px;
+}
+#rollno{
+	color:#008;
+	}
+#logo11{ 
+margin-top:-4.5%;
+}
+#fee{
+	color:#009;}
+	
+#fee_table{
+	margin-top:-16%;}
+#monthly{
+	color:#009;}
+#pay_month{
+	color:#009;}
+#pays{
+	margin-top:-5%;}
+#pay_name{
+	font:bold;
+	font-size:x-large;
+	color:#006;}
+#kake{
+	margin-top:-7%;
+}
+#syslabus{
+	margin-top:0%;
+}
+#new_admission{
+	margin-top:-5%;
+}
+#welcome{
+	margin-top: 0%;
+	color: #C00;
+	}
+#reset_pass{
+	color:#F00;
+}
+#contact{
+	margin-top:-5%;}
